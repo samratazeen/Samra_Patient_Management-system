@@ -1,0 +1,14 @@
+{
+  "name": "samra-patient-management",
+  "version": "1.0.0",
+  "description": "Samra Patient Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
